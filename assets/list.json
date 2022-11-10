@@ -1,0 +1,44 @@
+{
+    "book" : [
+        {
+            "id" : "1",
+            "name":"The Adventures of Huckleberry Finn",
+            "description":"Revered by all of the town's children and dreaded by all of its mothers, Huckleberry Finn is indisputably the most appealing child-hero in American literature. Unlike the tall-tale, idyllic world of Tom Sawyer, The Adventures of Huckleberry Finn is firmly grounded in early reality. From the abusive drunkard who serves as Huckleberry's father, to Huck's first tentative grappling with issues of personal liberty and the unknown, Huckleberry Finn endeavors to delve quite a bit deeper into the complexities — both joyful and tragic of life",
+            "published":"2004",
+            "blinding":"Hardcover",
+            "writer":"Mark Twain",
+            "imageid":"https://d3i5mgdwi2ze58.cloudfront.net/znuxxu2npw851eeboqayu3e35udn",
+            "price":"$14.50"
+        },
+        {
+            "id" : "2",
+            "name":"In Search of Lost Time",
+            "description":"Swann's Way, the first part of A la recherche de temps perdu, Marcel Proust's seven-part cycle, was published in 1913. In it, Proust introduces the themes that run through the entire work. The narrator recalls his childhood, aided by the famous madeleine; and describes M. Swann's passion for Odette. The work is incomparable. Edmund Wilson said [Proust] has supplied for the first time in literature an equivalent in the full scale for the new theory of modern physics.",
+            "published":"2004",
+            "writer":"Marcel Proust",
+            "blinding":"Kindle Edition",
+            "price":"$18.87",
+            "imageid":"https://d3i5mgdwi2ze58.cloudfront.net/ohbd3xqukj7do2f0o5txmhghfsva"
+        },
+        {
+            "id" : "3",
+            "name":"On the Origin of Species",
+            "description":"Charles Darwin's On the Origin of Species, published on Thursday 24 November 1859, is a seminal work of scientific literature considered to be the foundation of evolutionary biology. Its full title was On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. For the sixth edition of 1872, the short title was changed to The Origin of Species. Darwin's book introduced the theory that populations evolve over the course of generations through a process of natural selection, and presented a body of evidence that the diversity of life arose through a branching pattern of evolution and common descent. He included evidence that he had accumulated on the voyage of the Beagle in the 1830s, and his subsequent findings from research, correspondence, and experimentation.",
+            "published":"2010",
+            "writer":"Charles Darwin",
+            "blinding":"Kindle Edition",
+            "price":"$8.61",
+            "imageid": "https://d3i5mgdwi2ze58.cloudfront.net/m71ax89jqpyzknuyx7b4ymdji9gj"
+        },
+        {
+            "id" : "4",
+            "name":"The Divine Comedy",
+            "description":"Belonging in the immortal company of the great works of literature, Dante Alighieri's poetic masterpiece, The Divine Comedy, is a moving human drama, an unforgettable visionary journey through the infinite torment of Hell, up the arduous slopes of Purgatory, and on to the glorious realm of Paradise — the sphere of universal harmony and eternal salvation.",
+            "published":"2011",
+            "writer":" Dante Alighieri",
+            "blinding":"Hardcover",
+            "price":"$37.45",
+            "imageid": "https://d3i5mgdwi2ze58.cloudfront.net/x9oilp1o53aty07nyh57oyogot20"
+        }
+    ]
+}
